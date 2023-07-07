@@ -1,0 +1,15 @@
+{
+  "name": "cesium-tool",
+  "version": "1.0.0",
+  "description": "cesium工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "cesium": "1.107.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
